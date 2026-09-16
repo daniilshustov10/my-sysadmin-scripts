@@ -1,0 +1,5 @@
+Sep 14 18:36:52 sysadmin-host systemd[1]: Condition check resulted in Process error reports when automatic reporting is enabled (file watch) being skipped.
+Sep 14 18:36:52 sysadmin-host systemd[1]: Condition check resulted in Process error reports when automatic reporting is enabled (timer based) being skipped.
+Sep 14 18:36:52 sysadmin-host systemd[1]: Started Download data for packages that failed at package install time.
+Sep 14 18:36:52 sysadmin-host kernel: [    0.000000] NUMA: Failed to initialise from firmware
+Sep 14 18:36:52 sysadmin-host kernel: [    0.671457] GPT: Use GNU Parted to correct GPT errors.
